@@ -1,6 +1,6 @@
 # Create-React-App & Tailwind Starter
 
-This is just a simple starter for Create React App and Tailwind, based on instructions found on the [Tailwind web site](https://tailwindcss.com/docs/guides/create-react-app), but with patches/fixes for a couple of issues I find each time I follow those steps...
+This is just a simple starter for [Create React App](https://create-react-app.dev/) and the excellent [Tailwind](https://tailwindcss.com/), based on instructions found on the [Tailwind web site](https://tailwindcss.com/docs/guides/create-react-app), but with patches/fixes for a couple of issues I find each time I follow those steps...
 
 There is a problem with an incorrect version of ESLINT, which requires a few steps to fix, so this has been done as part of this starter
 
